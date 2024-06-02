@@ -7,8 +7,8 @@ Things you can do with Niko:
   - Say Goodbye: Niko says bye to you and leaves
   - You can also click on Niko's face in the menu to bring up the credits, click again to go back
 
-Credits:
-All sprites by @NightMargin on twitter
-Text box maker by u/PrincessRTFM on reddit
+Credits:  
+All sprites by @NightMargin on twitter  
+Text box maker by u/PrincessRTFM on reddit  
 Niko is from the game OneShot
 
